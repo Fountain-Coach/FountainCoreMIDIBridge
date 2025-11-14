@@ -1,4 +1,0 @@
-module NIOTestUtils {
-    header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOTestUtils-Swift.h"
-    requires objc
-}

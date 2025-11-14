@@ -1,4 +1,0 @@
-module ContainersPreview {
-    header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/ContainersPreview.build/ContainersPreview-Swift.h"
-    requires objc
-}

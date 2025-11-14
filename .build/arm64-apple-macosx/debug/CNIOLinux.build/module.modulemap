@@ -1,4 +1,0 @@
-module CNIOLinux {
-    umbrella header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
-    export *
-}

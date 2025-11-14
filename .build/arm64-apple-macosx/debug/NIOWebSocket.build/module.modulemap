@@ -1,4 +1,0 @@
-module NIOWebSocket {
-    header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/NIOWebSocket.build/NIOWebSocket-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module _NIOBase64 {
-    header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/_NIOBase64.build/_NIOBase64-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module _NIOFileSystem {
-    header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/_NIOFileSystem.build/_NIOFileSystem-Swift.h"
-    requires objc
-}
