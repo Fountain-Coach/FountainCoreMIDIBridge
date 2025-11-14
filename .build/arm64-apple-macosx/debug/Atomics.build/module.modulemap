@@ -1,0 +1,4 @@
+module Atomics {
+    header "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/Atomics.build/Atomics-Swift.h"
+    requires objc
+}

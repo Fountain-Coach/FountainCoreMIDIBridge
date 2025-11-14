@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/FountainCoreMIDIBridge.build/master.swiftdeps"
+  },
+  "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/Sources/FountainCoreMIDIBridge/main.swift": {
+    "dependencies": "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/FountainCoreMIDIBridge.build/main.d",
+    "object": "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/FountainCoreMIDIBridge.build/main.swift.o",
+    "swiftmodule": "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/FountainCoreMIDIBridge.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/benedikteickhoff/Development/Github-Desktop/FountainKit/Sidecar/FountainCoreMIDIBridge/.build/arm64-apple-macosx/debug/FountainCoreMIDIBridge.build/main.swiftdeps"
+  }
+}
